@@ -6,7 +6,7 @@ To run the scenario follow next steps:
 
 1. Install NodeJS
    https://nodejs.org/en/download/
-2Run npm install to install all dependencies from package.json file
+2. Run npm install to install all dependencies from package.json file
 
 To run scenarios using Playwright execute the following command:
 
